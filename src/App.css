@@ -1,0 +1,59 @@
+body{
+  background-color: rgb(214, 146, 44);
+}
+
+.App{
+  width: 80%;
+  /* text-align: center; */
+  margin: auto;
+  margin-bottom: 50px;
+  /* padding-left: 30%; */
+}
+.header{
+  /* margin-left: 20%; */
+  text-align: center;
+  margin-top: 50px;
+  font-size:42px;
+}
+.feature-btns{
+  padding: 20px;
+  width: 660px;
+  margin: auto;
+  border: 1px solid gray;
+  margin-bottom: 20px;
+  border-radius:10px;
+  background-color: black;
+  color: white;
+}
+.rating-btn{
+  background-color: rgb(255, 255, 255);
+  border: 1px solid black;
+  /* color: white; */
+  border-radius: 5px;
+  padding: 5px;
+  width: 40px;
+  height:30px;
+  margin: 5px;
+  font-size: 16px;
+}
+.btn-bold{
+  font-weight: 600;
+  font-size: 18px;
+}
+.payment-btn{
+  background-color: white;
+  border: 1px solid black;
+  /* color: white; */
+  border-radius: 5px;
+  padding: 5px;
+  width: 80px;
+  height:30px;
+  margin: 5px;
+  font-size: 16px;
+}
+.card-content-div{
+  /* margin-left:10%; */
+  margin: auto;
+  background-color:black;
+  color:white;
+}
